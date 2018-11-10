@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[118],{"./node_modules/code-example/lib/spreadsheet.js":function(e,d,o){"use strict";Object.defineProperty(d,"__esModule",{value:!0}),d.default=void 0;d.default="=IF(A1:B2, TRUE, FALSE) / 100\n"}}]);
