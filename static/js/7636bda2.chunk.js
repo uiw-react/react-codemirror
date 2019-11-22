@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[119],{595:function(e,n,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;n.default="=IF(A1:B2, TRUE, FALSE) / 100\n"}}]);
