@@ -1,2 +1,0 @@
-(this["webpackJsonp@uiw/react-codemirror"]=this["webpackJsonp@uiw/react-codemirror"]||[]).push([[574],{872:function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.default=void 0;r.default="=IF(A1:B2, TRUE, FALSE) / 100\n"}}]);
-//# sourceMappingURL=574.f99d1a0c.chunk.js.map

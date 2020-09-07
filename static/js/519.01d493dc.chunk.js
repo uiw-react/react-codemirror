@@ -1,0 +1,2 @@
+(this["webpackJsonp@uiw/react-codemirror"]=this["webpackJsonp@uiw/react-codemirror"]||[]).push([[519],{819:function(e,o,r){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=void 0;o.default='<%\nfunction hello(who) {\n  return "Hello " + who;\n}\n%>\nThis is an example of EJS (embedded javascript)\n<p>The program says <%= hello("world") %>.</p>\n<script>\n  alert("And here is some normal JS code"); // also colored\n<\/script>\n\n'}}]);
+//# sourceMappingURL=519.01d493dc.chunk.js.map
