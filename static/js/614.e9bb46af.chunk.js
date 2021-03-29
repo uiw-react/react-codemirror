@@ -1,0 +1,2 @@
+(this["webpackJsonp@uiw/react-codemirror"]=this["webpackJsonp@uiw/react-codemirror"]||[]).push([[614],{961:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;t.default='<html style="color: green">\n  \x3c!-- this is a comment --\x3e\n  <head>\n    <title>HTML Example</title>\n  </head>\n  <body>\n    The indentation tries to be <em>somewhat &quot;do what\n    I mean&quot;</em>... but might not match your style.\n  </body>\n</html>\n'}}]);
+//# sourceMappingURL=614.e9bb46af.chunk.js.map
