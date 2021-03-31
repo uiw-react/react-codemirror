@@ -1,0 +1,2 @@
+(this["webpackJsonp@uiw/react-codemirror"]=this["webpackJsonp@uiw/react-codemirror"]||[]).push([[463],{535:function(e,a){!function(e){function a(a,n){e.languages[a]&&e.languages.insertBefore(a,"comment",{"doc-comment":n})}var n=e.languages.markup.tag,t={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:n}},r={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:n}};a("csharp",t),a("fsharp",t),a("vbnet",r)}(Prism)}}]);
+//# sourceMappingURL=463.6b2a34cb.chunk.js.map
